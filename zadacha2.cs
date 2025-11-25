@@ -41,7 +41,7 @@ namespace UP
         }
     }
 
-    internal class Program
+    internal class zadacha2
     {
         static List<JewelryCustomer> customers = new List<JewelryCustomer>();
 
@@ -108,3 +108,4 @@ namespace UP
         }
     }
 }
+
