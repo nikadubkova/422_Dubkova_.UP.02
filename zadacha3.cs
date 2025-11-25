@@ -32,7 +32,7 @@ namespace UP
         }
     }
 
-    internal class Program
+    internal class zadacha3
     {
         static List<SportCustomer> customers = new List<SportCustomer>();
 
@@ -99,4 +99,5 @@ namespace UP
             foreach (var customer in customers) customer.DisplayInfo();
         }
     }
+
 }
