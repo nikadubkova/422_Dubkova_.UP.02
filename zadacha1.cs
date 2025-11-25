@@ -34,7 +34,7 @@ namespace UP
         }
     }
 
-    internal class Program
+    internal class zadacha1
     {
         static List<Tourist> tourists = new List<Tourist>();
 
@@ -104,3 +104,4 @@ namespace UP
         }
     }
 }
+
